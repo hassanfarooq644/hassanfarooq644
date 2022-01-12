@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about MERN STACK.
 - 👯 I’m looking to collaborate with other developers.
 - 📢 Love to do programming and creating new things.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 
 <h2><i>💻 Tech Stack</i></h2>
 
