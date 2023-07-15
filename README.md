@@ -1,4 +1,4 @@
-# Hello World, I'm Hassan 👋
+![image](https://github.com/hassanfarooq644/hassanfarooq644/assets/36379912/0fcad3cf-f6c3-4353-8ed3-9cc36f83559b)# Hello World, I'm Hassan 👋
 
 ### I'm a Developer, Helper.
 - 🔭 I’m currently working as Team Leader and Front-End Developer.
@@ -69,7 +69,7 @@
     </tr>
     <tr>
         <td align='center'>
-            <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg"
+            <img src="https://sass-lang.com/assets/img/logos/logo.svg"
                 height="40" width="60">
         </td>
         <td align='center'>
